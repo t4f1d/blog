@@ -1,0 +1,68 @@
+// Post Page
+
+#post-header{
+	.jumbotron{
+		.catlist a{
+			color:$color1 !important;
+			&:hover{
+				color:$color1-heavy !important;
+			}
+		}
+	}
+}
+
+#post-content{
+	.highlighter-rouge{
+		color:$color1;
+	}
+
+	#subscribe{
+		background-color: $color3-light !important;
+		border:none;
+		.heart{
+			background-color: $color2;
+			border:none;
+		}
+	}
+	h1, h2, h3, h4, .h1, .h2, .h3, .h4{
+		font-family: "Josefin Sans", sans-serif;
+		margin-bottom: 1rem;
+	}
+	h1,.h1{
+		margin-top: 5rem;
+		color: $black;
+	}
+	h2,.h2{
+		margin-top: 4rem;
+		color:#636E72;
+	}
+	h3,.h3{
+		//color:#B2BEC3;
+		color:#636E72;
+		margin-top: 3rem;
+		font-weight: 400;
+	}
+	p {
+		margin-bottom: 1rem;
+	}
+	blockquote{
+		border-left: 3px solid #636d72;
+		padding-left: 25px;
+	}
+	blockquote:before {
+	    content: none;
+	}
+}
+
+.recom{
+	font-family: $font2;
+	h1, h2{
+		font-weight: bold;
+	}
+	.link{
+		//font-size: 20px;
+	}
+	ul{     
+		list-style: none;
+	}
+}

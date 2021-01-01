@@ -1,0 +1,62 @@
+# Site
+name: 'mustaf.id'
+description: 'Thoughts, stories and ideas'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: '/'
+#baseurl: ''
+disqus: ''
+email: ''
+mailchimp-list: ''
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    mus:
+      alias:          mus
+      name:           Mustafid
+      site:           https://mustaf.id
+      avatar:         'assets/images/avatar1.jpg'
+      bio:            "Hi, I am Mus, the author of this site. I hope you like it!"
+
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: 'assets/images/avatar1.jpg'
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# SASS
+sass:
+    sass_dir: _sass
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

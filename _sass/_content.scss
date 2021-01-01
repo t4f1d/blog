@@ -1,0 +1,91 @@
+// Content
+a{
+	color: $color1;
+	&:hover{
+		color:$color1-medium;
+	}
+}
+
+a.text-dark:hover{
+	color: $color1 !important;
+}
+
+a.text-muted{
+	color: $color4 !important;
+	&:hover{
+		color: $color2 !important;
+	}
+}
+
+.site-content{
+    margin-top: 60px;
+    @media (max-width:767.98px) {
+    	margin-top: 30px;
+    }	
+    .jumbotron.bg-lightblue{
+    	background-color: $color3-light !important;
+    	.btn{
+    		background-color: $color2;
+    		border:none;
+    	}
+    }
+    .jumbotron-home h1 {
+    	font-family: $font1;
+    }
+	.lead{
+	    letter-spacing: 0.5px;	
+    }
+}
+
+.toppost{
+	margin-top: 30px;
+}
+
+#all-stories{
+	padding-right: 15px;
+	padding-left: 15px;
+	@media (max-width:767.98px) {
+		.mobile-fix{
+			display: block;
+		}
+	}
+}
+
+.left-element .align-items-center{
+	min-height: 110px;
+}
+
+// list line
+.spanborder{
+	border-bottom: 2px solid #e8f3ec;
+	span{
+		border-bottom: 2px solid $color1;
+		margin-bottom: -2px;
+	}
+}
+
+#main-loop-card{
+	.mobile-hide{
+		display: block;
+		@media (max-width:767.98px) {
+			display: none;
+		}	
+	}
+	.desktop-hide{
+		display: none;
+		@media (max-width:767.98px) {
+			display: block;
+		}	
+	}
+}
+
+.pagination{
+	.page-item{
+		.page-link{
+			border:none;
+		}
+		a.page-link{
+			color:$color1;
+		}
+	}
+}

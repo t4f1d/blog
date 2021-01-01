@@ -1,0 +1,23 @@
+<div class="mb-4 recom">
+<!-- Recommendation -->
+<h3>Check more...</h3>
+
+{% for category in site.categories %}
+<!-- exception -->
+{% if category[0] != 'Lecture' and category[0].size > 4 %}
+
+{% if page.categories contains category[0] %}
+<!-- <h2>{{ category[0] }}</h2> -->
+  <!-- <ul> -->
+    {% for post in category[1] limit:10 %}
+      <!-- <li> -->
+      	<a class="link" href="{{ post.url }}">{{ post.title }}</a> <br>
+      <!-- </li> -->
+    {% endfor %}
+  <!-- </ul> -->
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+</div>
