@@ -57,9 +57,11 @@ Dari hal itu semua, kita akan dapat memahami tantangan yang ada di setiap sisi m
 
 # Pasca NU-Muhammadiyah : Indonesia sebagai pusat peradaban Muslim Dunia
 
-NU dan Muhammadiyah adalah tenda besar bagi bangsa dan negara, harus saling berbagi dan saling membantu dalam menghadapi tantangan-tantangan besar didepan. 
+NU dan Muhammadiyah yang merupakan tenda besar bagi bangsa dan negara, harus saling berbagi dan saling membantu dalam menghadapi tantangan-tantangan besar di depan. 
 
-Ketika negara-negara disekitar kelahiran Islam dan timur tengah sedang dilanda peperangan serta konflik internal yang tak kunjung ada habis-habisnya, banyak harapan besar terhadap Indonesia. 
+Ketika negara-negara di sekitar kelahiran Islam dan timur tengah sedang dilanda peperangan serta konflik internal yang tak kunjung ada habis-habisnya, banyak harapan besar terhadap Indonesia. 
+
+Islam terlalu besar dan mulia untuk hanya dijadikan kendaraan duniawi yang terlalu rendah, _eman-eman_ (sangat disayangkan). Seharusnya kita semua bisa menatap masa depan bersama, berjuang bersama dalam menjalankan _titah_ menjadi wakil Tuhan yang ada di bumi untuk menjadi rahmat bagi seluruh alam, bukan hanya untuk kelompok tertentu saja, namun rahmat bagi seluruh jagad semesta ntah itu yang hidup ataupun tak hidup.
 
 > Wajah Islam Dunia dimasa depan akan sangat ditentukan bagaimana kita (baca: Indonesia) memahami dan menghayati apa itu Islam.
 
