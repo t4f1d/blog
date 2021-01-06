@@ -31,11 +31,17 @@ Setiap pendapat tidak bisa terlepas dari konteks sosial budaya masyarakat serta 
 
 # Islam Desa dan Islam Kota
 
+
+## Islam Desa
+
 Komunitas masyarakat islam yang tinggal di desa atau kita sebut dengan `Islam Desa` sangat kuat dalam membangun relasi sosial yang harmonis antar-kelompok etnis dan agama. Dan seringkali dalam merawat dan menjaga keharmonisan tersebut mereka rela "mengorbankan" ego, identitas primordial keagamaan.<sup>[3](#foot3)</sup> 
 
 Mereka mengenal istilah **tepo-seliro**, yang berarti tenggang rasa. Salah satu nilai luhur yang dipegang teguh oleh masyarakat desa pada umumnya yang mengajarkan bahwa di dalam hidup, keberagaman dan perbedaan bisa berjalan bersama, beriringan dan harmonis dalam menciptakan keindahan dan kedamaian.
 
 `Islam Desa` memiliki pola pikir yang sederhana tetapi punya makna yang sangat dalam. Membangun toleransi dan hubungan baik dengan orang lain secara harmonis antar-kelompok agama dan masyarakat itu lebih utama ketimbang bersikukuh dengan doktrin ataupun tafsir keagamaan yang dimiliki.
+
+
+## Islam Kota
 
 Hal ini tentu sangat berbeda dengan komunitas masyarakat islam yang tinggal di kota atau kita sebut dengan `Islam Kota`. Bagi kita, yang paling utama adalah bagaimana beribadah dengan tenang dan berakidah Islam yang murni. Bagaimana kita memiliki jiwa, sikap, dan praktik bertauhid hanya menuhankan Allah Yang Maha Esa dan tidak menyekutukan dengan suatu apapun. 
 
@@ -45,15 +51,18 @@ Masyarakat komunitas muslim pun khususnya di `Islam Kota` dengan begitu banyak d
 
 Banyaknya kegiatan kemaksiatan yang terjadi di kota, banyak membuat ketidaknyamanan bagi muslim yang tinggal di perkotaan pada umumnya, semisal diskotik dengan minuman-minuman kerasnya, serta akumulasi tempat maksiat yang cenderung dibiarkan membuat banyak masyarakat yang gerah meskipun berulang kali mencoba menegur, sehingga bergerak bersama menjadi sebuah solusi perubahan. Maka dari itu simbol keagamaan merupakan pilar yang sangat penting untuk menyatukan dan menunjukkan komunitas `Islam Kota`.
 
-Pertanyaan kemudian apakah generasi baru Muhammadiyah-NU yang masing-masing merepresentasikan gerakan `Islam Kota` dan `Islam Desa` bersedia keluar dari sekat-sekat 'sempit' ?. Semestinya tidak ada lagi alasan untuk terus terkurung dalam lingkaran yang sangat terbatas tersebut.
+## Lupakan sekat
+
+Pertanyaan kemudian apakah generasi baru Muhammadiyah-NU yang masing-masing merepresentasikan gerakan `Islam Kota` dan `Islam Desa` bersedia keluar dari sekat-sekat 'sempit' tersebut?. Semestinya tidak ada lagi alasan untuk terus terkurung dalam lingkaran yang sangat terbatas tersebut.
 
 Seperti 'Dawuh' Buya Syafi'i Maarif, Muhammadiyah dan NU benteng untuk membendung infiltrasi ideologi yang sudah kehilangan perspektif tentang keindonesiaan, keislaman dan kemanusiaan. Serta menjaga keutuhan Indonesia dari segala macam tangan perusak termasuk orang-orang yang memakai bendera agama. Kedua arus utama ini harus semakin menancapkan jangkar sedalam-dalamnya di samudra nusantara.
+
+>“Waktu saya di Mesir, anak-anak NU dan Muhammadiyah sama-sama belajar di satu tempat. Saya berkesimpulan, perbedaan antara NU dan Muhammadiyah di masa depan tidak akan ada lagi. Selama ini, Muhammadiyah pembaru, NU tradisional, yang akan terjadi, dua-duanya tradisional atau dua-duanya pembaru.” (Harun Nasution).<sup>[4](#foot4)</sup> 
 
 Dari hal itu semua, kita akan dapat memahami tantangan yang ada di setiap sisi masyarakat muslim baik itu yang tinggal di desa maupun yang tinggal di kota. Sehingga secara bersama-sama dapat merumuskan **bagaimana dan seperti apa ekspresi keagamaan yang harus dikembangan bersama di masa depan sebagai pusat peradaban Muslim Dunia ?**.
 
 
 
->“Waktu saya di Mesir, anak-anak NU dan Muhammadiyah sama-sama belajar di satu tempat. Saya berkesimpulan, perbedaan antara NU dan Muhammadiyah di masa depan tidak akan ada lagi. Selama ini, Muhammadiyah pembaru, NU tradisional, yang akan terjadi, dua-duanya tradisional atau dua-duanya pembaru.” (Harun Nasution).
 
 # Pasca NU-Muhammadiyah : Indonesia sebagai pusat peradaban Muslim Dunia
 
@@ -61,7 +70,9 @@ NU dan Muhammadiyah yang merupakan tenda besar bagi bangsa dan negara, harus sal
 
 Ketika negara-negara di sekitar kelahiran Islam dan timur tengah sedang dilanda peperangan serta konflik internal yang tak kunjung ada habis-habisnya, banyak harapan besar terhadap Indonesia. 
 
-Islam terlalu besar dan mulia untuk hanya dijadikan kendaraan duniawi yang terlalu rendah, _eman-eman_ (sangat disayangkan). Seharusnya kita semua bisa menatap masa depan bersama, berjuang bersama dalam menjalankan _titah_ menjadi wakil Tuhan yang ada di bumi untuk menjadi rahmat bagi seluruh alam, bukan hanya untuk kelompok tertentu saja, namun rahmat bagi seluruh jagad semesta ntah itu yang hidup ataupun tak hidup.
+>Islam terlalu besar dan mulia untuk hanya dijadikan kendaraan duniawi yang terlalu rendah, _eman-eman_ (sangat disayangkan). 
+
+Seharusnya kita semua bisa menatap masa depan bersama, berjuang bersama dalam menjalankan _titah_ menjadi wakil Tuhan yang ada di bumi untuk menjadi rahmat bagi seluruh alam, bukan hanya untuk kelompok tertentu saja, namun rahmat bagi seluruh jagad semesta ntah itu yang hidup ataupun tak hidup.
 
 > Wajah Islam Dunia dimasa depan akan sangat ditentukan bagaimana kita (baca: Indonesia) memahami dan menghayati apa itu Islam.
 
@@ -75,7 +86,7 @@ Teruntuk Buya Syafi'i Maarif, Terima kasih selalu menjadi teladan, kompas dan gu
 
 ## Referensi
 <small>
-<a name="foot1">1</a>: Adam Schwarz, Islam: Coming in from the Cold dalam bukunya, A Nation in Waiting, Indonesia in The 1990’s, (Sydney: Allan and Unwin, 1994), p. 171. Lihat pula Deliar Noer, Gerakan Modern Islam di Indonesia 1900-1942, cet. I (Jakarta: LP3ES, 1980)
+<a name="foot1">1</a>: Adam Schwarz, "Islam: Coming in from the Cold dalam bukunya, A Nation in Waiting, Indonesia in The 1990’s", (Sydney: Allan and Unwin, 1994), p. 171. Lihat pula Deliar Noer, Gerakan Modern Islam di Indonesia 1900-1942, cet. I (Jakarta: LP3ES, 1980)
 </small>
 
 <small>
@@ -84,6 +95,11 @@ Teruntuk Buya Syafi'i Maarif, Terima kasih selalu menjadi teladan, kompas dan gu
 
 <small>
 <a name="foot3">3</a>: Deutsche Welle. “Komunitas ‘Islam Kampung’ versus Jamaah ‘Islam Kota’: DW: 29.02.2020.” DW.COM, www.dw.com/id/komunitas-islam-kampung-versus-jamaah-islam-kota/a-52527047. 
+</small>
+
+
+<small>
+<a name="foot4">4</a>: Azhari, Susiknan. "Karakteristik Hubungan Muhammadiyah dan NU dalam Menggunakan Hisab dan Rukyat." Al-Jami'ah: Journal of Islamic Studies 44.2 (2006): 453-486.
 </small>
 
 
