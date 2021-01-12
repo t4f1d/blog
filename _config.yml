@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 #baseurl: ''
-disqus: ''
+disqus: 'mustaf-id'
 email: ''
 mailchimp-list: ''
 
