@@ -18,20 +18,22 @@ dengan menggunakan gawai yang selalu dibawa kemana-mana
 
 Banyak pertanyaan kemudian mulai bermunculan, dari mulai *apa itu teknologi?,* sampai *bagaimanakah kita hidup di era digital? dll* . Tulisan ini mencoba melihat hubungan ontologis antara manusia dengan teknologi yang disarikan dari pemikiran serta kritik oleh Martin Heidegger terhadap teknologi dalam essay yang berjudul *"The Question Concerning Technology,"* <sup>[1](#foot1)</sup> .
 
-Heidegger merupakan salah satu filsuf yang sangat berpengaruh di abad 20. Teknologi menjadi bahasan penting dalam tulisannya, dan bagi Heidegger teknologi adalah kunci untuk kita dalam memahami waktu kita sekarang ini. Heidegger menolak pemisahan antara subjek dan objek, dan pemisahan dirimu dengan dunia, dan menolak bahwa mausia dan teknologi bukanlah dua entitas yang terpisah. `Kita adalah teknologi itu sendiri`. Sebelum memahami apa itu teknologi kita harus mengetahui **Essense** atau makna dari teknologi. *What is the 'Essense' of Technology*, then?
+Heidegger merupakan salah satu filsuf yang sangat berpengaruh di abad 20. Teknologi menjadi bahasan penting dalam tulisannya, dan bagi Heidegger teknologi adalah kunci untuk kita dalam memahami waktu kita sekarang ini. Heidegger menolak pemisahan antara subjek dan objek, dan pemisahan dirimu dengan dunia, dan menolak bahwa manusia dan teknologi bukanlah dua entitas yang terpisah. `Kita adalah teknologi itu sendiri`. Sebelum memahami apa itu teknologi kita harus mengetahui **Essense** atau makna dari teknologi. *What is the 'Essense' of Technology*, then?
 
 # The "Essense" of Technology
 
 >"I'm not against technology. I've never spoken against technology, nor would I demonize technology. But I just only try to understand the nature of technology." - Martin Heidegger
 
-Martin Heidegger mencoba mendalami makna teknologi: *Apa itu teknologi?* *Apa dampak yang dibuat pada abad ke-20, dikehidupan kita?* Heidegger mencoba menjawab pertanyaan-pertanyaan ini didalam tulisannya. Dengan mengeksplorasi esensi atau makna dan mencoba mempertanyakan tentang keber-ada-an teknologi (being of technology).
+Martin Heidegger mencoba mendalami makna teknologi: *Apa itu teknologi?* *Apa dampak yang dibuat pada abad ke-20, dikehidupan kita?* Heidegger mencoba menjawab pertanyaan-pertanyaan ini di dalam tulisannya. Dengan mengeksplorasi esensi atau makna dan mencoba mempertanyakan tentang keber-ada-an teknologi (being of technology).
 
 Mungkin Martin Heidegger tidak tinggal di era digital seperti sekarang, tetapi beliau memberikan konsepsi fundamental tentang bagaimana kita menggunakan, melihat dan hidup bersama teknologi. Heidegger tidak pernah berkata bahwa dia menentang ataupun menganggap jelek teknologi. Dia pernah menjadi tentara nazi pada perang dunia kedua, dan melihat dan mengalami secara langsung bagaimana penggunaan teknologi **bom atom** bisa jadi sangat berbahaya pada masa itu.
 
+<center>
 <iframe src="https://www.nytimes.com/svc/oembed/html/?url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F08%2F06%2Fworld%2Fasia%2Fhiroshima-nagasaki-japan-photos.html" scrolling="no" frameborder="0" allowtransparency="true" title="After Atomic Bombings, These Photographers Worked Under Mushroom Clouds" style="border:none;max-width:500px;min-width:300px;min-height:550px;display:block;width:100%;"></iframe><br>
+</center>
 
 
-Ketika kita berfikir tentang teknologi, kita jarang sekali berfikir tentang esensi dari teknologi tersebut. Biasanya kita hanya berfikir bagaimana teknologi itu memberikan dampak dan kegunaan bagi kita. Meskipun pertanyaan tersebut juga bukan pertanyaan yang buruk. Tetapi, disini Heidegger mencoba mengajak kita melihat secara langsung essensi dari teknologi. 
+Ketika kita berfikir tentang teknologi, kita jarang sekali berfikir tentang esensi dari teknologi tersebut. Biasanya kita hanya berfikir bagaimana teknologi itu memberikan dampak dan kegunaan bagi kita. Meskipun pertanyaan tersebut juga bukan pertanyaan yang buruk. Tetapi, di sini Heidegger mencoba mengajak kita melihat secara langsung essensi dari teknologi. 
 
 Mungkin kamu sedang membaca tulisan ini melalui layar komputer ataupun gawai, ketika ditanya tentang esensi dari teknologi kamu mungkin menggunakan gawai ataupun layar komputer. Itulah esensi dari teknologi. Tetapi wujud fisik dari teknologi dan perangkatnya bukanlah teknologi itu sendiri. Dan bagi Heidegger, kita sebagai manusia sebenarnya buta terhadap teknologi.
 
@@ -53,11 +55,20 @@ Teknologi bukanlah aktivitas manusia semata, teknologi berkembang diluar kendali
 Teknologi bisa menjadi alat yang sangat berbahaya bagi eksistensi manusia. Sehingga kita harus dengan hati-hati menggunakannya. Kita tidak bisa melihat dunia hanya dari satu sudut pandang teknologi saja, itu akan menjadi hal yang sangat beresiko dan berbahaya.
 
 # Modern Implication
-Jika kita melihat sakarang, kita sering sekali mendengar berita-berita mengenai *climate change* , dan berapa lama waktu yang dibutuhkan untuk memperbaiki alam yang telah dirusak. Ketika kita mempunyai pikiran bahwa, kita tidak sepatutnya cemas melihat 40-50 tahun lagi teknologi akan mempunyai kemampuan untuk menghandle masalah tersebut, kita ga perlu cemas sekarang. 
+Jika kita melihat sakarang, kita sering sekali mendengar berita-berita mengenai *climate change* , dan berapa lama waktu yang dibutuhkan untuk memperbaiki alam yang telah dirusak. Ketika kita mempunyai pikiran bahwa, kita tidak sepatutnya cemas melihat 40-50 tahun lagi teknologi akan mempunyai kemampuan untuk meng*handle* masalah tersebut, kita ga perlu cemas sekarang. 
 
-Tetapi Heidegger kemudian bertanya, **Bagaimana kamu bisa tahu?**, bagaimana kamu tahu bahwa kita akan memiliki kemampuan teknnologi untuk menghadapi masalah tersebut di 30-40 tahun berikutnya? 
+Tetapi Heidegger kemudian bertanya, **Bagaimana kamu bisa tahu?**, bagaimana kamu tahu bahwa kita akan memiliki kemampuan teknologi untuk menghadapi masalah tersebut di 30-40 tahun berikutnya? 
 
-Kita jangan terlalu berharap berlebihan terhadap keadaan dimasa depan, bisa jadi keadaan dimasa depan menjadi lebih komplex dari keadaan yang sedang kita alami sekarang.
+>Manusia mengira dengan menggunakan teknologi segalanya akan mudah dikontrol, Justru sebaliknya, Teknologilah yang mengontrol manusia. 
+
+<br>
+<center>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="in" dir="ltr">Bagaimana kita menggunakan teknologi itu lebih penting ketimbang teknologi apa yang kita gunakan. <br><br>Teknologi bisa menjadi bahaya besar bagi otentisitas/eksistensi manusia karena ia mendorong manusia untuk melakukan sesuatu hanya karena ia bisa melakukannya. <br><br>- Martin Heidegger</p>&mdash; Mas Mus ❄️ (@T4f1d) <a href="https://twitter.com/T4f1d/status/1355428836771557379?ref_src=twsrc%5Etfw">January 30, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+<br>
+
+Kita jangan terlalu berharap berlebihan terhadap keadaan di masa depan, bisa jadi keadaan di masa depan menjadi lebih kompleks dari keadaan yang sedang kita alami sekarang.
 
 Hedegger menunjukkan sikap kepada kita bahwa terdapat tanggung jawab yang besar tentang cara kita menggunakan teknologi saat ini. Sikap dan cara kita menggunakan teknologi adalah aspek kunci yang seharusnya kita perhatikan untuk bagaimana kita menjadi manusia di era digital sekarang ini.
 
