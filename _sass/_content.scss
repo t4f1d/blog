@@ -17,6 +17,10 @@ a.text-muted{
 	}
 }
 
+.title-homepage a {
+	font-family: $font-title-homepage;
+}
+
 .site-content{
     margin-top: 60px;
     @media (max-width:767.98px) {
