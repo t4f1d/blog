@@ -790,12 +790,13 @@ article {
 	}
 }
 .article-headline {
-	font-family: Georgia,Times,"Times New Roman",serif;
-	font-size: 3.2rem;
-	font-weight: 400;
+	font-family: $font-title-article;
+	font-size: 3rem;
+	font-weight: bold;
 	line-height: 1.15;
 	color: $black;
 }
+
 .alertbar {
 	box-shadow: 0 -3px 10px 0 rgba(0,0,0,.0785);
 	position: fixed;

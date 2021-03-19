@@ -3,6 +3,8 @@
 #post-header{
 	.jumbotron{
 		.catlist a{
+			font-family: $font-title-article;
+			font-size: 1em;
 			color:$color1 !important;
 			&:hover{
 				color:$color1-heavy !important;
