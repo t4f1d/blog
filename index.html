@@ -137,6 +137,44 @@ description: ""
                     </small>
                 </div>
             </div>
+
+            <br><br>
+
+            <!-- Cloud Tags -->
+            <h4 class="font-weight-bold spanborder"><span>Tag Cloud</span></h4>
+            {% assign tags = site.tags | sort %}
+
+            <h5>Tags</h5>
+            {% for tag in tags %}
+
+                <!-- skip -->
+                {% if tag[0] == 'EN' %}{% continue %}{% endif %}
+                {% if tag[0] == 'ID' %}{% continue %}{% endif %}
+
+                <!-- tag assign -->
+                {% assign tag_text = tag[0] %}
+
+                <!-- replace -->
+                {% if tag[0] == 'AI' %}{% assign tag_text = 'Artificial Intelligence' %}{% endif %}
+
+                <!-- show -->
+                <span class="site-tag">
+                <a href="{{site.baseurl}}/categories.html#{{ tag | first | slugify }}" class="sscroll btn btn-light btn-sm font-weight-bold" 
+                    style="font-size: {{ tag | last | size  |  times: 10 | plus: 80  }}%">
+                        {{ tag_text | replace:'-', ' ' }} {% comment %}({{ tag | last | size }}) {% endcomment %}
+                </a>
+                </span>
+            {% endfor %}
+
+            <br><br>
+            
+            <h5>Bahasa / Language : </h5>
+            <span class="site-tag">
+                <a href="{{site.baseurl}}/categories.html#en" class="sscroll btn btn-light btn-sm font-weight-bold">English</a>
+                <a href="{{site.baseurl}}/categories.html#id" class="sscroll btn btn-light btn-sm font-weight-bold">Indonesia</a>
+            </span>
+
+            <br><br>
         
     </div>
     
