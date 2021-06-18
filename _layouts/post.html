@@ -78,11 +78,32 @@ layout: default
 			{{ content }}                
 			</article>
 
-			<br><br><hr>
+			<br><br>
 
-			{% include recom.html %} 
 			
-			<hr>
+
+
+			 <!-- Author Box -->
+                {% if page.author %}				
+				<div class="row mt-5">
+					<div class="col-md-2 align-self-center">
+                         {% if author.avatar %}
+                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
+                        {% endif %} 
+					</div>
+					<div class="col-md-10">		
+                        <span class="font-weight-bold">{{ author.name }} &nbsp;&nbsp;</span><span style="vertical-align: middle;">
+						<a  href="https://twitter.com/T4f1d?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @T4f1d</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        </span><br>
+						{{ author.bio }}					
+					</div>
+				</div>				
+                {% endif %}
+
+            <hr>
+			
+            {% include recom.html %} 
+
 			
 			<!-- Tags -->
 			<div class="mb-4">
@@ -94,9 +115,11 @@ layout: default
 			</div>
 
 			<hr>
+			
 
  
             <!-- Mailchimp Subscribe Form -->
+            {% comment %}
             {% if site.mailchimp-list %}
 			<div id="subscribe" class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
@@ -121,22 +144,10 @@ layout: default
 				</div>
 			</div>
             {% endif %}
+            {% endcomment %}
             
             
-             <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row mt-5">
-					<div class="col-md-2 align-self-center">
-                         {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
-                        {% endif %} 
-					</div>
-					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
-						{{ author.bio }}					
-					</div>
-				</div>				
-                {% endif %}
+
             
             <!-- Comments -->
             {% if page.comments != false %}

@@ -7,7 +7,7 @@ baseurl: '/'
 #baseurl: ''
 disqus: 'mustaf-id'
 email: ''
-mailchimp-list: ''
+#mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -24,8 +24,8 @@ authors:
       alias:          mus
       name:           Ahmad Mustafid
       site:           https://mustaf.id
-      avatar:         'assets/images/avatar1.jpg'
-      bio:            "An inquirer. A conceptualizer. A thinker"
+      avatar:         'assets/images/small.jpg'
+      bio:            "M․Sc. Student in Artificial Intelligence • An inquirer. A conceptualizer. A thinker • Interested in Science, AI, Philosophy, Mysticism •"
 
  
 # Defaults
