@@ -142,26 +142,24 @@ description: ""
 
             <!-- Cloud Tags -->
             <h4 class="font-weight-bold spanborder"><span>Tag Cloud</span></h4>
-            {% assign tags = site.tags | sort %}
+            {% assign categories = site.categories | sort %}
 
-            <h5>Tags</h5>
-            {% for tag in tags %}
+            <h5>Categories</h5>
+            {% for category in categories %}
 
                 <!-- skip -->
-                {% if tag[0] == 'EN' %}{% continue %}{% endif %}
-                {% if tag[0] == 'ID' %}{% continue %}{% endif %}
 
                 <!-- tag assign -->
-                {% assign tag_text = tag[0] %}
+                {% assign category_text = category[0] %}
 
                 <!-- replace -->
-                {% if tag[0] == 'AI' %}{% assign tag_text = 'Artificial Intelligence' %}{% endif %}
+                {% if category[0] == 'AI' %}{% assign category_text = 'Artificial Intelligence' %}{% endif %}
 
                 <!-- show -->
                 <span class="site-tag">
-                <a href="{{site.baseurl}}/categories.html#{{ tag | first | slugify }}" class="sscroll btn btn-light btn-sm font-weight-bold" 
-                    style="font-size: {{ tag | last | size  |  times: 10 | plus: 80  }}%">
-                        {{ tag_text | replace:'-', ' ' }} {% comment %}({{ tag | last | size }}) {% endcomment %}
+                <a href="{{site.baseurl}}/categories.html#{{ category | first | slugify }}" class="sscroll btn btn-light btn-sm font-weight-bold" 
+                    style="font-size: {{ category | last | size  |  times: 10 | plus: 80  }}%">
+                        {{ category_text | replace:'-', ' ' }} {% comment %}({{ category | last | size }}) {% endcomment %}
                 </a>
                 </span>
             {% endfor %}
@@ -170,8 +168,8 @@ description: ""
             
             <h5>Bahasa / Language : </h5>
             <span class="site-tag">
-                <a href="{{site.baseurl}}/categories.html#en" class="sscroll btn btn-light btn-sm font-weight-bold">English</a>
-                <a href="{{site.baseurl}}/categories.html#id" class="sscroll btn btn-light btn-sm font-weight-bold">Indonesia</a>
+                <a href="{{site.baseurl}}/tags.html#en" class="sscroll btn btn-light btn-sm font-weight-bold">English</a>
+                <a href="{{site.baseurl}}/tags.html#id" class="sscroll btn btn-light btn-sm font-weight-bold">Indonesia</a>
             </span>
 
             <br><br>
