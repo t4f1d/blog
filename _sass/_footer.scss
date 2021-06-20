@@ -1,5 +1,9 @@
 // footer
 #footer{
+	.navbar-brand{
+		padding: 0;
+		vertical-align: middle;
+	}
 	.navbar-brand .logo{
 		width: 2em;
 		height: 2em;
@@ -10,5 +14,11 @@
 	.footer-title{
 		display: inline-block;
 		vertical-align: middle;
+	}
+	.footer-line{
+		img{
+			padding: 10px 10px;
+			height: 70px;
+		}
 	}
 }
