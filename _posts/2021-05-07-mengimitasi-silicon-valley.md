@@ -70,10 +70,15 @@ Membangun Silicon Valley yang mana kita belum punya karakter dan ekosistem penop
 
 
 
-
 ## Referensi
 
 <small>Artikel ini pertama kali diposting oleh **Harian KOMPAS** pada tanggal **6 Mei 2021** dan bisa ditemukan di: [https://www.kompas.id/baca/opini/2021/05/06/mengimitasi-silicon-valley/](https://www.kompas.id/baca/opini/2021/05/06/mengimitasi-silicon-valley/){:target="_blank"} </small>
+
+
+## Kutip Artikel Ini
+
+<small>Mustafid, Ahmad (2021) "Mengimitasi Silicon Valley", Kompas, 06/05/2021, [https://www.kompas.id/baca/opini/2021/05/06/mengimitasi-silicon-valley/](https://www.kompas.id/baca/opini/2021/05/06/mengimitasi-silicon-valley/){:target="_blank"}</small>
+
 
 
 

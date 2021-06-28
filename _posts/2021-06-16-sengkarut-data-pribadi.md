@@ -74,7 +74,12 @@ Diperlukan upaya bersama antara pemerintah, instansi, organisasi, masyarakat, da
 
 ## Referensi
 
-<small>Artikel ini pertama kali diposting oleh **Harian KOMPAS** pada tanggal **15 Juni 2021** dan bisa ditemukan di: [https://www.kompas.id/baca/opini/2021/05/06/mengimitasi-silicon-valley/](https://www.kompas.id/baca/opini/2021/06/15/sengkarut-data-pribadi/){:target="_blank"} </small>
+<small>Artikel ini pertama kali diposting oleh **Harian KOMPAS** pada tanggal **15 Juni 2021** dan bisa ditemukan di: [https://www.kompas.id/baca/opini/2021/06/15/sengkarut-data-pribadi/](https://www.kompas.id/baca/opini/2021/06/15/sengkarut-data-pribadi/){:target="_blank"} </small>
+
+
+## Kutip Artikel Ini
+
+<small>Mustafid, Ahmad (2021) "Sengkarut Data Pribadi", Kompas, 15/06/2021, [https://www.kompas.id/baca/opini/2021/06/15/sengkarut-data-pribadi/](https://www.kompas.id/baca/opini/2021/06/15/sengkarut-data-pribadi/){:target="_blank"} </small>
 
 
 

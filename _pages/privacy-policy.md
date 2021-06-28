@@ -41,3 +41,47 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 #### Contact Information
 
 For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact.html).
+
+
+
+<br><br><br>
+<h3 class="font-weight-bold spanborder"><span>Kebijakan Privasi</span></h3>
+
+"{{site.name}}" menjaga privasi Anda dengan serius. Untuk melindungi privasi Anda dengan lebih baik, kami memberikan pemberitahuan kebijakan privasi ini yang menjelaskan cara informasi pribadi Anda dikumpulkan dan digunakan.
+
+
+#### Pengumpulan Informasi Rutin
+
+Situs web ini melacak informasi dasar tentang pengunjung mereka. Informasi ini mencakup, namun tidak terbatas pada, alamat IP, detail browser, stempel waktu, dan halaman rujukan. Tak satu pun dari informasi ini secara pribadi dapat mengidentifikasi pengunjung tertentu ke situs web ini. Informasi tersebut dilacak untuk keperluan administrasi dan pemeliharaan rutin.
+
+
+#### Cookies
+
+Jika diperlukan, situs web ini menggunakan cookie untuk menyimpan informasi tentang preferensi dan riwayat pengunjung untuk melayani pengunjung dengan lebih baik dan/atau menyajikan konten yang disesuaikan kepada pengunjung.
+
+
+#### Iklan dan Pihak Ketiga Lainnya
+
+Mitra periklanan dan pihak ketiga lainnya dapat menggunakan cookie, skrip, dan/atau suar web untuk melacak aktivitas pengunjung di situs web ini untuk menampilkan iklan dan informasi bermanfaat lainnya. Pelacakan tersebut dilakukan langsung oleh pihak ketiga melalui server mereka sendiri dan tunduk pada kebijakan privasi mereka sendiri. Situs web ini tidak memiliki akses atau kontrol atas cookie, skrip, dan/atau suar web ini yang mungkin digunakan oleh pihak ketiga. Pelajari cara [menyisih dari penggunaan cookie Google](http://www.google.com/privacy_ads.html).
+
+
+#### Tautan ke Situs Web Pihak Ketiga
+
+Kami telah menyertakan tautan di situs web ini untuk penggunaan dan referensi Anda. Kami tidak bertanggung jawab atas kebijakan privasi di situs web ini. Anda harus menyadari bahwa kebijakan privasi situs web ini mungkin berbeda dari kebijakan kami sendiri.
+
+
+#### Keamanan
+
+Keamanan informasi pribadi Anda penting bagi kami, tetapi ingat bahwa tidak ada metode transmisi melalui Internet, atau metode penyimpanan elektronik, yang 100% aman. Meskipun kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindungi informasi pribadi Anda, kami tidak dapat menjamin keamanan mutlaknya.
+
+
+#### Perubahan Kebijakan Privasi Ini
+
+Kebijakan Privasi ini berlaku efektif dan akan tetap berlaku kecuali sehubungan dengan perubahan ketentuannya di masa mendatang, yang akan berlaku segera setelah diposting di halaman ini.
+
+Kami berhak untuk memperbarui atau mengubah Kebijakan Privasi kami setiap saat dan Anda harus memeriksa Kebijakan Privasi ini secara berkala. Jika kami membuat perubahan materi apa pun pada Kebijakan Privasi ini, kami akan memberi tahu Anda melalui alamat email yang Anda berikan kepada kami, atau dengan menempatkan pemberitahuan penting di situs web kami.
+
+
+#### Kontak informasi
+
+Untuk pertanyaan atau masalah apa pun terkait kebijakan privasi, silakan [hubungi kami di sini]({{site.baseurl}}/contact.html).
