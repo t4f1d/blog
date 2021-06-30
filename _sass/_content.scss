@@ -13,7 +13,7 @@ a.text-dark:hover{
 a.text-muted{
 	color: $color1-medium !important;
 	&:hover{
-		color: $color1-medium !important;
+		color: $color1 !important;
 	}
 }
 
@@ -89,6 +89,17 @@ a.text-muted{
 			border:none;
 		}
 		a.page-link{
+			color:$color1;
+		}
+	}
+}
+
+
+.site-tag-transparent{
+	.btn{
+		background-color:transparent;
+		border:none;
+		&:hover{
 			color:$color1;
 		}
 	}

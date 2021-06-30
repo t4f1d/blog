@@ -141,10 +141,8 @@ description: ""
             <br><br>
 
             <!-- Cloud Tags -->
-            <h4 class="font-weight-bold spanborder"><span>Tag Cloud</span></h4>
             {% assign categories = site.categories | sort %}
-
-            <h5>Categories</h5>
+            <h4 class="font-weight-bold spanborder"><span>Categories</span></h4>
             {% for category in categories %}
 
                 <!-- skip -->
@@ -156,7 +154,7 @@ description: ""
                 {% if category[0] == 'AI' %}{% assign category_text = 'Artificial Intelligence' %}{% endif %}
 
                 <!-- show -->
-                <span class="site-tag">
+                <span class="site-tag site-tag-transparent">
                 <a href="{{site.baseurl}}/categories.html#{{ category | first | slugify }}" class="sscroll btn btn-light btn-sm font-weight-bold" 
                     style="font-size: {{ category | last | size  |  times: 10 | plus: 80  }}%">
                         {{ category_text | replace:'-', ' ' }} {% comment %}({{ category | last | size }}) {% endcomment %}
@@ -166,8 +164,8 @@ description: ""
 
             <br><br>
             
-            <h5>Bahasa / Language : </h5>
-            <span class="site-tag">
+            <h4 class="font-weight-bold spanborder"><span>Bahasa / Language</span></h4>
+            <span class="site-tag site-tag-transparent">
                 <a href="{{site.baseurl}}/tags.html#en" class="sscroll btn btn-light btn-sm font-weight-bold">English</a>
                 <a href="{{site.baseurl}}/tags.html#id" class="sscroll btn btn-light btn-sm font-weight-bold">Indonesia</a>
             </span>
