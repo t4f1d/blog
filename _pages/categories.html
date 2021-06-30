@@ -10,7 +10,8 @@ permalink: "/categories.html"
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
             
         {% for category in site.categories %} 
-        <h4 class="font-weight-bold spanborder text-capitalize cat-title" id="{{ category[0] | downcase | url_encode }}"><span>{{ category[0] }}</span></h4>
+        {% assign id = category[0] | downcase | url_encode | replace: "+" , "-" %}
+        <h4 class="font-weight-bold spanborder text-capitalize cat-title" id="{{ id }}"><span>{{ category[0] }}</span></h4>
             
         {% assign pages_list = category[1] %}
         {% for post in pages_list %}
