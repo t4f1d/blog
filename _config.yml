@@ -10,8 +10,8 @@ email: ''
 #mailchimp-list: ''
 
 include: ["_pages"]
-#permalink: /:title/
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:title/
+#permalink: /:year/:month/:day/:title:output_ext
 
 
 
